@@ -1,0 +1,5 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "vscode_custom_css.imports": ["file:///Users/KaluB/Desktop/styles.css"]
+}
