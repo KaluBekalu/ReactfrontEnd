@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactfrontEnd/static/css/main.795991f2.chunk.css",
+    "main.js": "/ReactfrontEnd/static/js/main.91b1f360.chunk.js",
+    "main.js.map": "/ReactfrontEnd/static/js/main.91b1f360.chunk.js.map",
+    "runtime~main.js": "/ReactfrontEnd/static/js/runtime~main.3ed53593.js",
+    "runtime~main.js.map": "/ReactfrontEnd/static/js/runtime~main.3ed53593.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/ReactfrontEnd/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.ec040855.chunk.js": "/ReactfrontEnd/static/js/2.ec040855.chunk.js",
+    "static/js/2.ec040855.chunk.js.map": "/ReactfrontEnd/static/js/2.ec040855.chunk.js.map",
+    "index.html": "/ReactfrontEnd/index.html",
+    "precache-manifest.3e261ab54162a931e8b200dbfbd6a6cf.js": "/ReactfrontEnd/precache-manifest.3e261ab54162a931e8b200dbfbd6a6cf.js",
+    "service-worker.js": "/ReactfrontEnd/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/ReactfrontEnd/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.795991f2.chunk.css.map": "/ReactfrontEnd/static/css/main.795991f2.chunk.css.map"
+  }
+}
